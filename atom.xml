@@ -6,7 +6,7 @@
   <link href="http://yoursite.com/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2022-02-09T06:57:09.000Z</updated>
+  <updated>2022-03-28T06:18:08.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,58 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>On Bordom</title>
+    <link href="http://yoursite.com/2022/03/28/on-Boredom/"/>
+    <id>http://yoursite.com/2022/03/28/on-Boredom/</id>
+    <published>2022-03-28T06:18:08.000Z</published>
+    <updated>2022-03-28T06:18:08.000Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>As humans, we need self-determined, effective connection with the world. We need to be engaged, mentally occupied, giving expression to our desires and exercising our skills and talents. In short, we have a need for agency. When this need is fulfilled, we flourish. When this need is thwarted, we feel bored, disengaged.</p><p>In this regard, boredom reveals an important aspect of being human: we have a strong need to be engaged with the world around us. As we’ll see, a number of substitutes for true engagement might be very tempting and might even beat back boredom in the short term. But such temporary salves never last, and boredom will return with a vengeance. After that, it is up to us to embrace our agency.</p><footer><strong>Out of My Skull The Psychology of Boredom by James Danckert</strong></footer></blockquote>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;blockquote&gt;&lt;p&gt;As humans, we need self-determined, effective connection with the world. We need to be engaged, mentally occupied, giving exp</summary>
+      
+    
+    
+    
+    <category term="Quotes" scheme="http://yoursite.com/categories/Quotes/"/>
+    
+    
+    <category term="Books" scheme="http://yoursite.com/tags/Books/"/>
+    
+    <category term="Quotes" scheme="http://yoursite.com/tags/Quotes/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>一些书店</title>
+    <link href="http://yoursite.com/2022/02/23/2022-Bookstore/"/>
+    <id>http://yoursite.com/2022/02/23/2022-Bookstore/</id>
+    <published>2022-02-23T00:44:29.000Z</published>
+    <updated>2022-02-23T00:44:29.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>去年开始定下每个月都要去书店的习惯——虽然我现在居无定所，也因此看到喜欢的书也只能做个记录、很少拿下。</p><p>泉州芥子书屋</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;去年开始定下每个月都要去书店的习惯——虽然我现在居无定所，也因此看到喜欢的书也只能做个记录、很少拿下。&lt;/p&gt;
+&lt;p&gt;泉州芥子书屋&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    <category term="books" scheme="http://yoursite.com/categories/books/"/>
+    
+    
+    <category term="Books" scheme="http://yoursite.com/tags/Books/"/>
+    
+  </entry>
   
   <entry>
     <title>Manifesto</title>
@@ -49,13 +101,14 @@
     <published>2022-02-09T06:04:31.000Z</published>
     <updated>2022-02-09T06:04:31.000Z</updated>
     
-    <content type="html"><![CDATA[<ul><li>在横着竖着读了几遍 <a href="https://notes.andymatuschak.org/z4EX4vWeTcxgfaTEpB2cMqD6kW7Mp1cKJNfKt">Andy 的笔记</a>以后，我对卡片写作和双向链接有了新的理解和实践——放在私人的 workflowy 上，例如我<a href="https://workflowy.com/s/kemuda/wDclybftGDW5Tj8Z">精读《直觉泵》的文献笔记</a>。</li><li>我也开始重新用番茄钟了，我用的是没有广告、时间灵活、激励机制很棒的 forest，用我的推荐码5XTWSEESG<a href="https://forestapp.cc/download/en">注册</a>帮我解锁更多的物种。</li><li>今天收到一封两年前的自己给自己写的信，用的是 <a href="http://futureme.org">futureme.org</a>，一个我从初中开始每年用一两次的平台。很简单的点子，但因为你无法预估会是在什么情境和境况下读到过去的自己给自己写的信，会有很大惊喜。我每一次都鼻子一酸，热泪盈眶。</li></ul>]]></content>
+    <content type="html"><![CDATA[<ul><li><p>在横着竖着读了几遍 <a href="https://notes.andymatuschak.org/z4EX4vWeTcxgfaTEpB2cMqD6kW7Mp1cKJNfKt">Andy 的笔记</a>以后，我对卡片写作和双向链接有了新的理解和实践——放在私人的 workflowy 上，例如我<a href="https://workflowy.com/s/kemuda/wDclybftGDW5Tj8Z">精读《直觉泵》的文献笔记</a>。</p></li><li><p>我也开始重新用番茄钟了，我用的是没有广告、时间灵活、激励机制很棒的 forest，用我的推荐码5XTWSEESG<a href="https://forestapp.cc/download/en">注册</a>帮我解锁更多的物种。</p></li><li><p>今天收到一封两年前的自己给自己写的信，用的是 <a href="https://www.futureme.org/">Future Me</a>，一个我从初中开始每年用一两次的平台。很简单的点子，但因为你无法预估会是在什么情境和境况下读到过去的自己给自己写的信，会有很大惊喜——我每一次都鼻子一酸，热泪盈眶。</p></li></ul>]]></content>
     
     
       
       
     <summary type="html">&lt;ul&gt;
-&lt;li&gt;在横着竖着读了几遍 &lt;a href=&quot;https://notes.andymatuschak.org/z4EX4vWeTcxgfaTEpB2cMqD6kW7Mp1cKJNfKt&quot;&gt;Andy 的笔记&lt;/a&gt;以后，我对卡片写作和双向链接有了新的理解和实践——放在私人</summary>
+&lt;li&gt;
+&lt;p&gt;在横着竖着读了几遍 &lt;a href=&quot;https://notes.andymatuschak.org/z4EX4vWeTcxgfaTEpB2cMqD6kW7Mp1cKJNfKt&quot;&gt;Andy 的笔记&lt;/a&gt;以后，我对卡片写作和双向链接有了新的理解和实践——</summary>
       
     
     
@@ -72,7 +125,7 @@
     <published>2022-01-02T04:30:33.000Z</published>
     <updated>2022-01-02T04:30:33.000Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="【主题阅读-认知科学】">【主题阅读-认知科学】</h2><ol><li><p><a href="https://book.douban.com/subject/30335756/">我是个怪圈 侯世达</a>  <strong>3.8/5</strong>(重读)<br>GEB 作者比较率性的自传体写作，是他最容易读的一本、但同时干货也更少。</p><blockquote><p>意识是一种可以察觉自身的幻景。这种狡猾的现象仿佛是提着自己的鞋带把自己举了起来，彷佛是无中生有地创造了自身。</p></blockquote></li><li><p><a href="https://book.douban.com/subject/30340107/">直觉泵和其他思考工具 丹尼尔丹尼特</a>  <strong>4.2/5</strong></p><p>当代研究心智和意识的先锋哲学家丹尼尔·丹尼特的著作，书的结构非常简单，12个通用思考工具，以及针对意义、计算机、进化论、自由意志几个主题中核心问题的思想实验；每一个小节相对独立但互相映照。</p><p>我的核心收获是结合计算机中寄存器机、人类从词语到概念到语义的产生的几个思想实验，对意义和智能的涌现有了更深的理解。</p><p>感兴趣的朋友可参考这篇中肯的<a href="https://book.douban.com/review/10071956/">书评</a>。我的笔记在<a href="https://workflowy.com/s/kemuda/wDclybftGDW5Tj8Z">这里</a>。</p></li></ol><h2 id="【主题阅读-进化论】">【主题阅读-进化论】</h2><ol start="3"><li>基因传</li><li>创世纪</li><li>红皇后效应</li><li>基因效应23章</li></ol><h2 id="【主题阅读-投资】">【主题阅读-投资】</h2><ol start="7"><li><p><a href="https://www.amazon.com/dp/B08VJP821L/">Red Roulette: An Insider’s Story of Wealth, Power, Corruption, and Vengeance in Today’s China</a> <strong>?/5</strong></p><p>09/02/22。Relevant, well written and intriging. Hard to rate.</p></li></ol><h2 id="【其他】">【其他】</h2><ol start="8"><li><p><a href="https://book.douban.com/subject/35081921/">Normal People 正常人 萨莉·鲁尼</a>  <strong>3.7/5</strong><br>02/01/22。青春的普通的恋爱展开。<br>女主角玛丽安的人物比起男主剧康奈尔立得更饱满一点，中学和圣三一的群像无功无过，其中最莫名其妙的是在圣三一的女朋友佩吉。<br>因为用时间间隔命名章节，对事情 cadency 好的把握。<br>作者是那种会用小本本记录天空颜色的比喻、恋爱中的心情快照，并反反复复改的人，因而有很多细微的渲染。</p></li><li><p>影响力</p></li><li><p>耐力</p></li><li><p>终身成长</p></li><li><p><a href="https://book.douban.com/subject/35005045">夜晚的潜水艇</a> <strong>4.5/5</strong></p><p>12/02/22。飘逸的想象力和扎实的文笔，天真烂漫融合着对虚无的偏爱；是洗练、丰富的、语感很好的中文短篇，没有多余的东西。</p><p>总体来说最喜欢潜水艇、传彩笔、酿酒师、音乐家这1359关于创作的四篇；另外也喜欢作者笔下东方传说化出的意蕴。竹峰寺中隐秘的碑文，佛祖发髻上的蝴蝶、庄严与娇媚平衡的《华严经》，大瓮之中山峰生长的声，“苍然暮色，自远而至，至无所见而犹不欲归。心凝形释，与万化冥合”；酿酒师如同李白，亦圣亦仙。</p><p>全书最酣畅的是羽化的苏联音乐家一篇，陈把握得非常好，在这个时代背景下尤其相关的一篇。</p><p>这一两年我尤其偏好这个长度的短篇，读来不累、不需要通宵达旦、睡前读完一篇可以在梦里再消化，细节还可以再把玩一两天。另外一本很好的是黑塞的童话集，大部分写在悉达多和达米安之前，但不少也已经有禅意。他写作的时候正在荣格处做咨询，想来十分有趣。其中《魔法师的童年》、《法尔敦》两篇与本书相映成趣。</p></li></ol><hr><h2 id="【观影】">【观影】</h2><ol><li><p><a href="https://movie.douban.com/subject/35101436/">成瘾剂量 Dopesick‎ (2021)</a> <strong>4.5/5</strong></p><p>这个剧讲90年代 Purdue Pharma 推出的阿片药物止痛药 OxyContin 在美国的泛滥。一季八集、横跨十年，涉及了 FDA、DEA、司法系统、pharma、医生和患者几方，拍得很好。</p><p>我会 relate 到现在的时空背景下，关于 psychedelics 非罪化、药物监管、制药公司专利、和一些不负责任的诊所和医生（比如 ketamin clinic）的相关讨论。（参见 Berkeley psychedelics Newsletter)。当然 psychedelics 和 opioid 的差别千千万万——尤其是在成瘾性上，但医药市场的基本运作方式是相通的。</p></li><li><p><a href="https://movie.douban.com/subject/2268042/">Enron: The Smartest Guys in the Room‎ (2005)</a> <strong>3.5/5</strong></p><p>相比有关2008金融危机的纪录片、这部片子的拍摄弱了一些。</p><p><strong>Ask why, always.</strong> ——我的最大 Takeaway，讽刺的是，也同时是Enron 的价值观和 Motto。</p><p>people want to believe things in their favour 是真的。</p><p>Jeff Skilling reminds me of a lot of the so called impressive smart people, including the Purdue guy.</p><p>崇尚智识力量、通过会计法则玩弄华尔街于指掌的独裁企业家。</p></li><li><p><a href="https://movie.douban.com/subject/4843480/">监守自盗 Inside Job‎ (2010)</a></p><p>再看金融危机。确实比较 opinionated，但是好叙述、好采访、好 angel。</p></li><li><p><a href="https://movie.douban.com/subject/7065334/">金矿 Gold‎ (2016)</a> <strong>4/5</strong></p><p>很好的故事片。</p></li><li><p><a href="https://movie.douban.com/subject/26606242/">冈仁波齐‎ (2015)</a> <strong>4.5/5</strong></p></li></ol>]]></content>
+    <content type="html"><![CDATA[<h2 id="【主题阅读-认知科学】">【主题阅读-认知科学】</h2><ol><li><p><a href="https://book.douban.com/subject/30335756/">我是个怪圈 侯世达</a>  <strong>3.8/5</strong>(重读)<br>GEB 作者比较率性的自传体写作，是他最容易读的一本、但同时干货也更少。</p><blockquote><p>意识是一种可以察觉自身的幻景。这种狡猾的现象仿佛是提着自己的鞋带把自己举了起来，彷佛是无中生有地创造了自身。</p></blockquote></li><li><p><a href="https://book.douban.com/subject/30340107/">直觉泵和其他思考工具 丹尼尔丹尼特</a>  <strong>4.2/5</strong></p><p>当代研究心智和意识的先锋哲学家丹尼尔·丹尼特的著作，书的结构非常简单，12个通用思考工具，以及针对意义、计算机、进化论、自由意志几个主题中核心问题的思想实验；每一个小节相对独立但互相映照。</p><p>我的核心收获是结合计算机中寄存器机、人类从词语到概念到语义的产生的几个思想实验，对意义和智能的涌现有了更深的理解。</p><p>感兴趣的朋友可参考这篇中肯的<a href="https://book.douban.com/review/10071956/">书评</a>。我的笔记在<a href="https://workflowy.com/s/kemuda/wDclybftGDW5Tj8Z">这里</a>。</p></li></ol><h2 id="【主题阅读-进化论】">【主题阅读-进化论】</h2><ol start="3"><li>基因传</li><li>创世纪</li><li>红皇后效应</li><li>基因效应23章</li></ol><h2 id="【主题阅读-投资】">【主题阅读-投资】</h2><ol start="7"><li><p><a href="https://www.amazon.com/dp/B08VJP821L/">Red Roulette: An Insider’s Story of Wealth, Power, Corruption, and Vengeance in Today’s China</a> <strong>?/5</strong></p><p>09/02/22。Relevant, well written and intriging. Hard to rate.</p></li></ol><h2 id="基于生活">[基于生活]</h2><ol start="8"><li><p><a href="https://book.douban.com/subject/35005045">夜晚的潜水艇 陈春成</a> <strong>4.3/5</strong></p><p>12/02/22。飘逸的想象力和扎实的文笔，天真烂漫融合着对虚无的偏爱；是洗练、丰富的、语感很好的中文短篇，没有多余的东西。</p><p>总体来说最喜欢潜水艇、传彩笔、酿酒师、音乐家这1359关于创作的四篇；另外也喜欢作者笔下东方传说化出的意蕴。竹峰寺中隐秘的碑文，佛祖发髻上的蝴蝶、庄严与娇媚平衡的《华严经》，大瓮之中山峰生长的声，“苍然暮色，自远而至，至无所见而犹不欲归。心凝形释，与万化冥合”；酿酒师如同李白，亦圣亦仙。</p><p>全书最酣畅的是羽化的苏联音乐家一篇，陈把握得非常好，在这个时代背景下尤其相关的一篇。</p><p>这一两年我尤其偏好这个长度的短篇，读来不累、不需要通宵达旦、睡前读完一篇可以在梦里再消化，细节还可以再把玩一两天。另外一本很好的是《<a href="https://book.douban.com/subject/30299697/">黑塞童话集</a>》，大部分写在悉达多和达米安之前，但不少也已经有禅意。他写作的时候正在荣格处做咨询，想来十分有趣。其中《魔法师的童年》、《法尔敦》两篇与本书相映成趣。</p></li><li><p><a href="https://book.douban.com/subject/35041581/">纳闷集 匡扶</a> 前三篇<strong>4.2/5</strong> 后几篇 <strong>3/5</strong></p><p>长度上——长的短篇；题材上——第一篇是关于老年人、第二篇关于书店和顾客、第三篇关于自然和成长，都是我所偏好的；加上匡扶对生活细节有那种见微知著的洞察和呈现能力，我十分入迷。</p><p>小时候喜欢看过一段时间绘本，但主要是着迷于水彩的质地和氛围感，这两年才慢慢 get 小时候大家所说的看漫画时看故事的那种爽感。但我还是比较偏好 graphic novel 类型、偏现实主义的风格。有很多法国作品不错，去年看了不少：《<a href="https://book.douban.com/subject/26695177/">氯的滋味</a>》《<a href="https://book.douban.com/subject/30592182/">悬停的爱</a>》《<a href="https://book.douban.com/subject/3163420/">Blue Pills : A Positive Love Story</a>》《<a href="https://book.douban.com/subject/26695174/">灯塔</a>》；也去了纽约的法文书店，装帧美极了，二层全是“图画书”，我简直眼中垂涎。</p></li><li><p><a href="https://book.douban.com/subject/33444886//">无尽绿</a> <strong>3.5/5</strong></p><p>现代人笔下杭州的风土风物。我住下在杭州不过三个多月，最好的回忆是盛夏荷花盛开之时与友人泛舟西湖，因此也对最后一篇感应最强，其他是囫囵看的。好的观察、真挚的感情、质朴但雅的文笔、日常治愈的内容。</p></li></ol><h2 id="【其他】">【其他】</h2><ol start="11"><li>Normal People 正常人 萨莉·鲁尼](<a href="https://book.douban.com/subject/35081921/">https://book.douban.com/subject/35081921/</a>)  <strong>3.7/5</strong><br>02/01/22。青春的普通的恋爱展开。<br>女主角玛丽安的人物比起男主剧康奈尔立得更饱满一点，中学和圣三一的群像无功无过，其中最莫名其妙的是在圣三一的女朋友佩吉。<br>因为用时间间隔命名章节，对事情 cadency 好的把握。<br>作者是那种会用小本本记录天空颜色的比喻、恋爱中的心情快照，并反反复复改的人，因而有很多细微的渲染。</li><li>影响力 <strong>3.7/5</strong></li><li>耐力</li><li>终身成长</li></ol><hr><h2 id="【观影】">【观影】</h2><ol><li><p><a href="https://movie.douban.com/subject/35101436/">成瘾剂量 Dopesick‎ (2021)</a> <strong>4.5/5</strong></p><p>这个剧讲90年代 Purdue Pharma 推出的阿片药物止痛药 OxyContin 在美国的泛滥。一季八集、横跨十年，涉及了 FDA、DEA、司法系统、pharma、医生和患者几方，拍得很好。</p><p>我会 relate 到现在的时空背景下，关于 psychedelics 非罪化、药物监管、制药公司专利、和一些不负责任的诊所和医生（比如 ketamin clinic）的相关讨论。（参见 Berkeley psychedelics Newsletter)。当然 psychedelics 和 opioid 的差别千千万万——尤其是在成瘾性上，但医药市场的基本运作方式是相通的。</p></li><li><p><a href="https://movie.douban.com/subject/2268042/">Enron: The Smartest Guys in the Room‎ (2005)</a> <strong>3.5/5</strong></p><p>相比有关2008金融危机的纪录片、这部片子的拍摄弱了一些。</p><p><strong>Ask why, always.</strong> ——我的最大 Takeaway，讽刺的是，也同时是Enron 的价值观和 Motto。</p><p>people want to believe things in their favour 是真的。</p><p>Jeff Skilling reminds me of a lot of the so called impressive smart people, including the Purdue guy.</p><p>崇尚智识力量、通过会计法则玩弄华尔街于指掌的独裁企业家。</p></li><li><p><a href="https://movie.douban.com/subject/4843480/">监守自盗 Inside Job‎ (2010)</a></p><p>再看金融危机。确实比较 opinionated，但是好叙述、好采访、好 angel。</p></li><li><p><a href="https://movie.douban.com/subject/7065334/">金矿 Gold‎ (2016)</a> <strong>4/5</strong></p><p>很好的故事片。</p></li><li><p><a href="https://movie.douban.com/subject/26606242/">冈仁波齐‎ (2015)</a> <strong>4.5/5</strong></p><p>因为对我来说是一种未曾能去到的故乡，而有了一种近乎虚构的乡愁。</p></li><li><p>史崔克</p></li><li><p>地球之夜</p></li><li><p>植物星球</p></li><li><p>旅行者与魔法师</p></li></ol>]]></content>
     
     
       
