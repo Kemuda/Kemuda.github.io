@@ -6,7 +6,7 @@
   <link href="http://yoursite.com/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2022-12-30T08:26:17.000Z</updated>
+  <updated>2023-08-15T13:02:58.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Zuzalu Passport ... Cover</title>
+    <link href="http://yoursite.com/2023/08/15/page/"/>
+    <id>http://yoursite.com/2023/08/15/page/</id>
+    <published>2023-08-15T13:02:58.000Z</published>
+    <updated>2023-08-15T13:02:58.000Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src alt></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;img src alt&gt;&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title></title>
@@ -58,6 +79,8 @@
       
     
     
+    
+    <category term="摘抄" scheme="http://yoursite.com/categories/%E6%91%98%E6%8A%84/"/>
     
     
     <category term="mushroom" scheme="http://yoursite.com/tags/mushroom/"/>
@@ -106,11 +129,13 @@
     
     
     
+    <category term="摘抄" scheme="http://yoursite.com/categories/%E6%91%98%E6%8A%84/"/>
+    
     
   </entry>
   
   <entry>
-    <title>Curated_Boredom</title>
+    <title>On Boredom</title>
     <link href="http://yoursite.com/2022/03/28/on-Boredom/"/>
     <id>http://yoursite.com/2022/03/28/on-Boredom/</id>
     <published>2022-03-28T06:18:08.000Z</published>
@@ -126,7 +151,7 @@
     
     
     
-    <category term="Quotes" scheme="http://yoursite.com/categories/Quotes/"/>
+    <category term="摘抄" scheme="http://yoursite.com/categories/%E6%91%98%E6%8A%84/"/>
     
     
     <category term="Books" scheme="http://yoursite.com/tags/Books/"/>
@@ -251,6 +276,8 @@
     
     
     
+    <category term="在路上" scheme="http://yoursite.com/categories/%E5%9C%A8%E8%B7%AF%E4%B8%8A/"/>
+    
     
   </entry>
   
@@ -350,7 +377,7 @@
     
     
     
-    <category term="剪切" scheme="http://yoursite.com/categories/%E5%89%AA%E5%88%87/"/>
+    <category term="摘抄" scheme="http://yoursite.com/categories/%E6%91%98%E6%8A%84/"/>
     
     
     <category term="Create" scheme="http://yoursite.com/tags/Create/"/>
@@ -373,6 +400,8 @@
       
     
     
+    
+    <category term="摘抄" scheme="http://yoursite.com/categories/%E6%91%98%E6%8A%84/"/>
     
     
   </entry>
@@ -416,6 +445,8 @@
     
     
     
+    <category term="产品" scheme="http://yoursite.com/categories/%E4%BA%A7%E5%93%81/"/>
+    
     
   </entry>
   
@@ -438,6 +469,8 @@
       
     
     
+    
+    <category term="摘抄" scheme="http://yoursite.com/categories/%E6%91%98%E6%8A%84/"/>
     
     
     <category term="Quotes" scheme="http://yoursite.com/tags/Quotes/"/>
@@ -465,28 +498,6 @@
     
     
     <category term="自我解构" scheme="http://yoursite.com/categories/%E8%87%AA%E6%88%91%E8%A7%A3%E6%9E%84/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>让小鸟住进你家</title>
-    <link href="http://yoursite.com/2020/03/15/Living_With_Animals/"/>
-    <id>http://yoursite.com/2020/03/15/Living_With_Animals/</id>
-    <published>2020-03-15T14:53:03.000Z</published>
-    <updated>2020-03-15T14:53:03.000Z</updated>
-    
-    <content type="html"><![CDATA[<blockquote><p><em>A bird doesn’t sing because it has an answer, it sings because it has a song.</em></p><p><em>— <a href="https://en.wikipedia.org/wiki/Joan_Walsh_Anglund">John Walsh Anglund</a></em></p></blockquote><p>每个早晨都在鸟鸣中醒来该是多么美好呀！——要是有个院子，我想在树上挂上这个<a href="https://www.evasolo.com/en/house-and-garden/birds/feeding/bird-shelter/571018/">鸟舍</a>！</p><p><img src="/images/571018_birds_shelter.jpg" alt="571018_birds_shelter"></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;blockquote&gt;
-&lt;p&gt;&lt;em&gt;A bird doesn’t sing because it has an answer, it sings because it has a song.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;— &lt;a href=&quot;https://en.wiki</summary>
-      
-    
-    
     
     
   </entry>
